@@ -25,7 +25,7 @@
 5、启动：seata-server-1.4.2/bin/seata-server.bat 或 seata-server-1.4.2/bin/seata-server.sh
 ```
 
-### 启动 seata-demo-saga
+### 启动 seata-demo-xa
 ```
 1、启动
 repository account - AccountApplication
